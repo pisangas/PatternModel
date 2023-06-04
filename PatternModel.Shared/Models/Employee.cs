@@ -12,6 +12,5 @@ namespace PatternModel.Shared.Models
         public string? LastName { get; set; }
         public string? Identification { get; set; }
         public string? Position { get; set; }
-
     }
 }

@@ -25,6 +25,7 @@ namespace PatternModel.AccessData
         public bool InsertEmployee(Employee employee)
         {
             Console.WriteLine("..........");
+            Console.ReadLine();
             return true;
         }
 
