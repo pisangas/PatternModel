@@ -23,19 +23,8 @@ namespace PatternModel.AccessData
             return instance;
         }
         public bool InsertEmployee(Employee employee)
-        {
-            Console.WriteLine("..........");
-            Console.ReadLine();
+        {         
             return true;
-        }
-
-        private bool UpdateEmployee()
-        {
-            return true;
-        }
-        private bool DeleteEmployee()
-        {
-            return true;
-        }
+        }     
     }
 }
